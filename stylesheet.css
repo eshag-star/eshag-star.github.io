@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+#name {
+  color: #bf5700;
+}
+
+.section {
+  background-color: white;
+  padding: 20px;
+  margin: 16px 0;
+  border: 1px solid #ccc;
+}
+
+a:hover {
+  color: #bf5700;
+}
